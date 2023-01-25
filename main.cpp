@@ -180,8 +180,6 @@ int main() {
         }
 
         
-
-
         //TODO loop through user properties and put anything with a value into the curl request
         makeCurlRequest(user);
 
