@@ -1,0 +1,2 @@
+app_id(required),device_id(required)[int],identifier, identifier_auth_hash, test_type, language, external_user_id, external_user_id_auth_hash, timezone, game_version, device_model, device_os, session_count[int], amount_spent,created_at[int],playtime[int],last_active[int],notification_types[int],lat[double],long[double],country,timezone_id, tags(key:value - separate by commas)
+,,,,,,,,,,,,,,,,,,,,,,dom:bob,jim:bill,terry:crews
